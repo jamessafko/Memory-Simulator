@@ -1,3 +1,7 @@
+/*
+ Contains the Class "LinkedLists" used for movement of data within the memory pages.
+ */
+
 #include <iostream>
 #include <vector>
 
